@@ -2,7 +2,7 @@
 
 int main(){
 
-    /* switch = A more efficient alternative to using mani else if statements.
+    /* switch = A more efficient alternative to using many else if statements.
         allows a value to be tested for equality for many cases */
     
     char grade;

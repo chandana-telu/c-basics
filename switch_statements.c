@@ -24,7 +24,7 @@ int main(){
             break;
 
         case 'D':
-            printf("at least it's not not an F!\n");
+            printf("at least it's not an F!\n");
             break;
 
         case 'F':
